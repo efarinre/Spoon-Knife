@@ -1,4 +1,6 @@
-### Well hello there!
+### Well hello, hi! 
+
+This is a *Farinre Special* learning edition.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
